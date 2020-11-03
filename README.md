@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-game
 
-Classic game of tic tac toe for two players.
+The classic game of tic tac toe for two players.
 
 # How to run an app
 
@@ -8,4 +8,14 @@ Classic game of tic tac toe for two players.
 2. Extract files, right-click, and select extract here.
 3. Go to the tic-tac-toe's folder and double-click on the shortcut.
 
+# Dependencies
+- Windows
+- Visual Studio
 
+# How to play
+1. Player one selects a number that marks the window with his symbols.
+2. Player two selects a number that marks the window with his symbols.
+3. First player that finishes the line horizontally or diagonally with his symbols wins.
+
+# References
+Udemy C# Masterclass course.
